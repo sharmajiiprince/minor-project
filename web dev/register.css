@@ -1,0 +1,42 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-image: url(Gradientbackground.png);
+}
+header {
+    font-family: 'Haettenschweiler';
+    font-size: xx-large;  
+    text-align: left;
+    padding: 20px;
+}
+.gif{
+    float: right;   
+}
+#cont{
+    height: 450px;
+    width: 880px;
+    border-radius: 10px;
+    font-family: 'Montserrat', sans-serif;
+}
+#loginimg{
+    margin-top: 150px;
+}
+#details{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+#state{
+    display: block;
+}
+#SignUp{
+       border-radius: 10px;
+       color: white
+}
+.btn{
+    height: 50px;
+    width: 20%;
+}
+btn:hover{
+    color: beige;
+}
