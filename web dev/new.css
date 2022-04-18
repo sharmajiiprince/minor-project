@@ -34,7 +34,7 @@ footer a {
 
 
 body{
-    background-image: url(stock-2.png);
+    background-image: url(./image/stock-2.png);
      background-size: cover;
     /* background-color:lightblue;*/
 }
@@ -56,7 +56,7 @@ body{
     width: 60%;
     border-radius: 15px;
     align-self: center;
-    background-image: url(Patient.png);
+    background-image: url(./image/Patient.png);
     background-repeat: no-repeat;
     background-size: cover;
     
@@ -118,7 +118,7 @@ body{
     width: 60%;
     border-radius: 15px;
     align-self: center;
-    background-image: url(Hospital_red2.png);
+    background-image: url(./image/Hospital_red2.png);
     background-repeat: no-repeat;
     background-size: cover;
     
